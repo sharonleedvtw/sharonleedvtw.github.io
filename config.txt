@@ -96,6 +96,6 @@
     {
       "url": "https://www.youtube.com/live/T0J79UaCTAs?si=vYFe4BkOZXT2I4Km",
       "name": "蠟筆小新"
-    },
+    }
   ]
 }
