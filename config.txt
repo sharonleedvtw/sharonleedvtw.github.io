@@ -72,7 +72,7 @@
     {
       "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
       "name": "台視"
-    }
+    },
     {
       "url": "https://www.youtube.com/watch?v=YfeacCN2ORs",
       "name": "中天亞洲台"
