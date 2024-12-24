@@ -1,27 +1,7 @@
 Main,#genre#
-镜新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv075
-TVBS新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
-东森新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv152
-非凡新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv010
-华视新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv052
-靖天咨讯台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
-中视新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv074
-中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
-民视新闻台,http://litv.zapi.us.kg/?id=litv-ftv13
 台视财经台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
-早晨财经,https://litv.zapi.us.kg/?id=4gtv-4gtv104
-寰宇新闻台湾,http://litv.zapi.us.kg/?id=litv-longturn15
-NHK综合,http://iptv.tvfix.org/hls/nhkg.m3u8
-NHK综合(第2声道),http://iptv.tvfix.org/hls/nhkg2.m3u8
-NHK WORLD Premium,http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
-NHK WORLD,http://iptv.tvfix.org/hls/nhkworld.m3u8
-NHK WORLD(中文字幕),http://iptv.tvfix.org/hls/nhkworldzh.m3u8
-tvN,http://iptv.tvfix.org/hls/tvn.m3u8
-爱尔达体育2,http://iptv12k.com:35461/live/test167/12345/1220.m3u8
-爱尔达体育3,http://iptv12k.com:35461/live/test167/12345/1219.m3u8
-纬来体育,http://211.72.65.236:8585/.m3u8
 NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-NBA TV2,https://stream1.freetv.fun/nba-tv-1.ctv
-NBA TV3,https://stream1.freetv.fun/nba-tv-4.ctv
+NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
+NHK WORLDP,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 DMAX,https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
 纬来日本台,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb$订阅源
