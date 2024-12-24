@@ -142,6 +142,18 @@
       "name": "KPop"
     },
     {
+      "url": "https://www.youtube.com/live/65Yw6vRM6Rw?si=5n1B2mztn6sjVTlq",
+      "name": "Xmas Radio"
+    },
+    {
+      "url": "https://www.youtube.com/live/mLm3U_Xh4Wk?si=BcMmseW90NgXMlT1",
+      "name": "Xmas Carol"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hKCsT72iDDE",
+      "name": "Xmas Pop"
+    },
+    {
       "url": "https://www.youtube.com/live/xRPjKQtRXR8?si=JMKq92NTk1PDeexU",
       "name": "NASA Live"
     }
