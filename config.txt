@@ -154,6 +154,10 @@
       "name": "Xmas Pop"
     },
     {
+      "url": "https://www3.nhk.or.jp/nhkworld/zt/live/",
+      "name": "NHK World"
+    },
+    {
       "url": "https://www.youtube.com/live/xRPjKQtRXR8?si=JMKq92NTk1PDeexU",
       "name": "NASA Live"
     }
