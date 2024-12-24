@@ -154,7 +154,7 @@
       "name": "Xmas Pop"
     },
     {
-      "url": "https://www3.nhk.or.jp/nhkworld/zt/live/",
+      "url": "http://iptv.tvfix.org/hls/nhkworldpremium.m3u8",
       "name": "NHK World"
     },
     {
