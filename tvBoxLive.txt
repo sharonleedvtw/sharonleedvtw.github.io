@@ -1,7 +1,4 @@
 Main,#genre#
-台视财经台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
 NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 NHK WORLDP,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-DMAX,https://github.com/inspirationlinks/m3u/raw/live/Streams/Dmax.m3u8
-纬来日本台,http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb$订阅源
