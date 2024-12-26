@@ -142,6 +142,14 @@
       "name": "MIT台灣誌"
     },
     {
+      "url": "https://www.youtube.com/live/I634LFttEQM?si=ZduahAr8dme1cUgB",
+      "name": "City Panorama"
+    },
+    {
+      "url": "https://www.youtube.com/live/z7SiAaN4ogw?si=M5sbqRqF777ZIVsJ",
+      "name": "World LiveCam"
+    },
+    {
       "url": "https://www.youtube.com/live/WIhgU_mc05A?si=VUqluit31EvZxRkl",
       "name": "新唐人"
     },
