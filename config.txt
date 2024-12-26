@@ -138,7 +138,7 @@
       "name": "綜藝玩很大"
     },
     {
-      "url": "https://www.youtube.com/live/4baQyOfRRTE?si=qXs5rxvJIHt55hiK",
+      "url": "https://www.youtube.com/live/SiGyiRk8cN8?si=-SmgVmVal2HkzEO1",
       "name": "MIT台灣誌"
     },
     {
