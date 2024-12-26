@@ -122,8 +122,20 @@
       "name": "蠟筆小新"
     },
     {
-      "url": "https://www.youtube.com/live/0aBJU1mFpsk?si=e8SgolIvAmM34i4_",
-      "name": "豬哥會社"
+      "url": "https://www.youtube.com/watch?v=ADDSmXoPDY8",
+      "name": "萬秀豬王"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UsZi0jxZHZ8",
+      "name": "天才衝衝衝"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
+      "name": "飢餓遊戲"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5UfG-LzbZXk",
+      "name": "綜藝玩很大"
     },
     {
       "url": "https://www.youtube.com/live/4baQyOfRRTE?si=qXs5rxvJIHt55hiK",
@@ -132,6 +144,10 @@
     {
       "url": "https://www.youtube.com/live/WIhgU_mc05A?si=VUqluit31EvZxRkl",
       "name": "新唐人"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KStsfXbCG-4",
+      "name": "KTSF"
     },
     {
       "url": "https://www.youtube.com/live/plonIfpCkww?si=VzsPX6Yk23f4o4rl",
