@@ -2,6 +2,9 @@ Main,#genre#
 NBA TV1,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 NHK WORLDP,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-NHK G,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7
-NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=7
-NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=7
+NHK,http://114.34.191.36:8552/.m3u8
+NHK1,http://iptv.tvfix.org/hls/nhkg.m3u8
+NHK2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+NHK3,http://vthanh.utako.moe/2/index.m3u8
+NHK4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+NHK5,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
