@@ -115,7 +115,7 @@
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
-      "name": "TVBS食尚玩家"
+      "name": "龍華經典台"
     },
     {
       "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
