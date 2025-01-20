@@ -134,28 +134,16 @@
       "name": "飢餓遊戲"
     },
     {
-      "url": "https://www.youtube.com/watch?v=5UfG-LzbZXk",
-      "name": "綜藝玩很大"
+      "url": "https://www.youtube.com/live/TR7dfvmtWsg?si=faohRYca8sTlRAc5",
+      "name": "台灣啟示錄"
     },
     {
       "url": "https://www.youtube.com/live/SiGyiRk8cN8?si=-SmgVmVal2HkzEO1",
       "name": "MIT台灣誌"
     },
     {
-      "url": "https://www.youtube.com/live/I634LFttEQM?si=ZduahAr8dme1cUgB",
-      "name": "City Panorama"
-    },
-    {
-      "url": "https://www.youtube.com/live/z7SiAaN4ogw?si=M5sbqRqF777ZIVsJ",
-      "name": "World LiveCam"
-    },
-    {
       "url": "https://www.youtube.com/live/WIhgU_mc05A?si=VUqluit31EvZxRkl",
       "name": "新唐人"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=KStsfXbCG-4",
-      "name": "KTSF"
     },
     {
       "url": "https://www.youtube.com/live/plonIfpCkww?si=VzsPX6Yk23f4o4rl",
@@ -166,16 +154,12 @@
       "name": "KPop"
     },
     {
-      "url": "https://www.youtube.com/live/65Yw6vRM6Rw?si=5n1B2mztn6sjVTlq",
-      "name": "Xmas Radio"
+      "url": "https://www.youtube.com/live/I634LFttEQM?si=ZduahAr8dme1cUgB",
+      "name": "City Panorama"
     },
     {
-      "url": "https://www.youtube.com/live/mLm3U_Xh4Wk?si=BcMmseW90NgXMlT1",
-      "name": "Xmas Carol"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=hKCsT72iDDE",
-      "name": "Xmas Pop"
+      "url": "https://www.youtube.com/live/z7SiAaN4ogw?si=M5sbqRqF777ZIVsJ",
+      "name": "World LiveCam"
     },
     {
       "url": "https://www.youtube.com/live/xRPjKQtRXR8?si=JMKq92NTk1PDeexU",
