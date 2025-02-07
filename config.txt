@@ -162,10 +162,6 @@
       "name": "Xmas Jazz"
     },
     {
-      "url": "https://youtu.be/mrylcCAEIT8",
-      "name": "雪梨植物園"
-    },
-    {
       "url": "https://www.youtube.com/live/I634LFttEQM?si=ZduahAr8dme1cUgB",
       "name": "City Panorama"
     },
