@@ -150,8 +150,20 @@
       "name": "City Panorama"
     },
     {
-      "url": "https://www.youtube.com/live/z7SiAaN4ogw?si=M5sbqRqF777ZIVsJ",
-      "name": "World LiveCam"
+      "url": "https://www.youtube.com/live/cH7VBI4QQzA?si=qWY6V2FXUYEgY1Ua",
+      "name": "Toykio Walk"
+    },
+    {
+      "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
+      "name": "Ocean Ambience"
+    },
+    {
+      "url": "https://www.youtube.com/live/EvsLqQS_80E?si=O05zVu5mmFPFP6LX",
+      "name": "Forest Corner"
+    },
+    {
+      "url": "https://www.youtube.com/live/tNkZsRW7h2c?si=eUE2cJNbISgn1Uvo",
+      "name": "Space Ambient Music"
     },
     {
       "url": "https://www.youtube.com/live/xRPjKQtRXR8?si=JMKq92NTk1PDeexU",
