@@ -70,10 +70,6 @@
       "name": "非凡商業"
     },
     {
-      "url": "https://www.youtube.com/live/MPlkuzgczBI?si=q072EZfqebA9Md6p",
-      "name": "Taiwan+"
-    },
-    {
       "url": "https://www.youtube.com/live/YDfiTGGPYCk?si=uWXKaV7oHhgfv91F",
       "name": "Fox"
     },
@@ -146,20 +142,8 @@
       "name": "飢餓遊戲"
     },
     {
-      "url": "https://www.youtube.com/live/TR7dfvmtWsg?si=faohRYca8sTlRAc5",
-      "name": "台灣啟示錄"
-    },
-    {
-      "url": "https://www.youtube.com/live/SiGyiRk8cN8?si=-SmgVmVal2HkzEO1",
-      "name": "MIT台灣誌"
-    },
-    {
       "url": "https://www.youtube.com/live/WIhgU_mc05A?si=VUqluit31EvZxRkl",
       "name": "新唐人"
-    },
-    {
-      "url": "https://www.youtube.com/live/plonIfpCkww?si=VzsPX6Yk23f4o4rl",
-      "name": "Xmas Jazz"
     },
     {
       "url": "https://www.youtube.com/live/I634LFttEQM?si=ZduahAr8dme1cUgB",
