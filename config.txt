@@ -45,6 +45,10 @@
       "name": "鏡新聞"
     },
     {
+      "url": "https://www.youtube.com/watch?v=hR8_rrE0VyY",
+      "name": "新唐人"
+    },
+    {
       "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
       "name": "非凡新聞",
       "header": "Referer: https://fetfriday.svc.litv.tv/"
@@ -54,20 +58,20 @@
       "name": "三立新聞"
     },
     {
-      "url": "https://today.line.me/tw/v2/article/jggMBa",
-      "name": "TVBS新聞 (Line)"
-    },
-    {
       "url": "https://www.youtube.com/user/57ETFN/live",
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/live/WTRQiVWK1jY?si=Ml6hKb9R-d994qmA",
+      "url": "https://www.youtube.com/watch?v=EnuEsX3FSh0",
       "name": "寰宇新聞財經"
     },
     {
-      "url": "https://www.youtube.com/live/NHQDx8vCrC4?si=GOraoPgcCYS8iDp8",
+      "url": "https://www.youtube.com/watch?v=xLqt2p6Dowo",
       "name": "非凡商業"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vOTiJkg1voo",
+      "name": "ABC"
     },
     {
       "url": "https://www.youtube.com/live/YDfiTGGPYCk?si=uWXKaV7oHhgfv91F",
@@ -76,10 +80,6 @@
     {
       "url": "https://www.youtube.com/live/Ap-UM1O9RBU?si=POgDxigMdgtPPwSs",
       "name": "France 24"
-    },
-    {
-      "url": "https://www.youtube.com/live/-mvUkiILTqI?si=KLginFM93eEKzFyS",
-      "name": "ABC"
     },
     {
       "url": "https://www.youtube.com/live/1_Ih0JYmkjI?si=Nvq8hOhhvOrpOweF",
@@ -122,32 +122,12 @@
       "name": "大愛二臺"
     },
     {
-      "url": "https://www.youtube.com/live/dgAEF2ppKg8?si=o-_pbCMeY4tJRY0N",
-      "name": "新哆啦A夢"
-    },
-    {
-      "url": "https://www.youtube.com/live/T0J79UaCTAs?si=-2KUvyPB8tqO-8d_",
-      "name": "蠟筆小新"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=ADDSmXoPDY8",
       "name": "萬秀豬王"
     },
     {
-      "url": "https://www.youtube.com/watch?v=UsZi0jxZHZ8",
-      "name": "天才衝衝衝"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=A98LJq71BZg",
-      "name": "飢餓遊戲"
-    },
-    {
-      "url": "https://www.youtube.com/live/WIhgU_mc05A?si=VUqluit31EvZxRkl",
-      "name": "新唐人"
-    },
-    {
-      "url": "https://www.youtube.com/live/I634LFttEQM?si=ZduahAr8dme1cUgB",
-      "name": "City Panorama"
+      "url": "https://www.youtube.com/watch?v=z7SiAaN4ogw",
+      "name": "Rolling Cam around the World"
     },
     {
       "url": "https://www.youtube.com/live/cH7VBI4QQzA?si=qWY6V2FXUYEgY1Ua",
