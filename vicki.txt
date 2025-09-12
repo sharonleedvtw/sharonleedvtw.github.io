@@ -1,1 +1,125 @@
-
+{
+  "channelList": [
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xL0ch83RAK8",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "name": "中天新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "name": "三立 iNEWS 新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MV9mI0GChwo",
+      "name": "三立新聞"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EnuEsX3FSh0",
+      "name": "寰宇新聞財經"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xLqt2p6Dowo",
+      "name": "非凡商業"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
+      "name": "中視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公視"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
+      "name": "華視"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076",
+      "name": "亞洲旅遊台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
+      "name": "龍華經典台"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
+      "name": "大愛一臺"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
+      "name": "大愛二臺"
+    },
+    {
+      "url": "https://www.youtube.com/live/wd-sSbL-cmA?si=Qr0E0MiBUjMoqlSo",
+      "name": "綜藝玩很大"
+    },
+    {
+      "url": "https://www.youtube.com/live/eHe-Sf016R0?si=AjqSO9-UGsl6eBF1",
+      "name": "去有風的地方"
+    },
+    {
+      "url": "https://www.youtube.com/live/fH2POwXR-xw?si=__HkMz5ol8ee2ZTG",
+      "name": "神機妙算劉伯溫"
+    },
+    {
+      "url": "https://www.youtube.com/live/GjXBXz5dl6E?si=ZN3OjzvLZYga2z4_",
+      "name": "親戚別計較"
+    },
+    {
+      "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
+      "name": "Ocean Ambience"
+    },
+    {
+      "url": "https://www.youtube.com/live/EvsLqQS_80E?si=O05zVu5mmFPFP6LX",
+      "name": "Forest Corner"
+    }
+  ]
+}
