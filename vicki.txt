@@ -114,7 +114,7 @@
       "name": "親戚別計較"
     },
     {
-      "url": "https://www.youtube.com/playlistlist=PLtww_vcpAB8qQaPdQp392tYmOwwv6YS0f&si=_wRrEGTB7aO5F0jK",
+      "url": "https://youtu.be/aLu4oyQ2zdw?si=RYA4YnloLLTLteFL",
       "name": "寶島西米樂"
     },
     {
