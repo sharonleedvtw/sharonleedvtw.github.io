@@ -114,6 +114,10 @@
       "name": "親戚別計較"
     },
     {
+      "url": "https://www.youtuberepeat.com/playlistlist=PLtww_vcpAB8qQaPdQp392tYmOwwv6YS0f&si=_wRrEGTB7aO5F0jK",
+      "name": "寶島西米樂"
+    },
+    {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
       "name": "Ocean Ambience"
     },
