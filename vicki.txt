@@ -122,7 +122,7 @@
       "name": "那卡西老歌1"
     },
     {
-      "url": "https://www.youtube.com/live/-jh6oARU_Oc?si=9_NTAzmPldaOCGv0",
+      "url": "https://www.youtube.com/live/wDpxt6jZqUw?si=WwaM_uCKEvquK7Sv",
       "name": "那卡西老歌2"
     },
     {
