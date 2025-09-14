@@ -78,6 +78,10 @@
       "name": "公視"
     },
     {
+      "url": "https://www.youtube.com/live/GjXBXz5dl6E?si=ZN3OjzvLZYga2z4_",
+      "name": "公視台語台"
+    },
+    {
       "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
       "name": "華視"
     },
@@ -110,12 +114,8 @@
       "name": "神機妙算劉伯溫"
     },
     {
-      "url": "https://www.youtube.com/live/GjXBXz5dl6E?si=ZN3OjzvLZYga2z4_",
+      "url": "https://www.youtube.com/live/6KlRR_DGhmI?si=NaY-LDVjW3pQlsuK",
       "name": "親戚別計較"
-    },
-    {
-      "url": "https://www.youtube.com/live/GjXBXz5dl6E?si=ZN3OjzvLZYga2z4_",
-      "name": "寶島西米樂"
     },
     {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
