@@ -118,6 +118,14 @@
       "name": "親戚別計較"
     },
     {
+      "url": "https://www.youtube.com/live/0wNHPFo4rCo?si=dOYqg56kTSc9D-xR",
+      "name": "那卡西老歌1"
+    },
+    {
+      "url": "https://www.youtube.com/live/-jh6oARU_Oc?si=9_NTAzmPldaOCGv0",
+      "name": "那卡西老歌2"
+    },
+    {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
       "name": "Ocean Ambience"
     },
