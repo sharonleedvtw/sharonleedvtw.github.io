@@ -94,16 +94,16 @@
       "name": "龍華經典台"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii31",
-      "name": "食尚玩家"
-    },
-    {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn12",
       "name": "龍華偶像台"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn11",
       "name": "龍華日韓台"
+    },
+    {
+      "url": "https://www.youtube.com/live/nSqd6CYF4uo?si=H3BdzBjorfQ0Ei8n",
+      "name": "敗犬女王"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/ofiii38",
