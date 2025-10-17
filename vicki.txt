@@ -90,6 +90,10 @@
       "name": "亞洲旅遊台"
     },
     {
+      "url": "https://www.youtube.com/live/wd-sSbL-cmA?si=Qr0E0MiBUjMoqlSo",
+      "name": "綜藝玩很大"
+    },
+    {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
       "name": "龍華經典台"
     },
@@ -110,16 +114,12 @@
       "name": "九重紫"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii1048",
-      "name": "風采劇場"
+      "url": "https://www.youtube.com/live/Wsz2YuQ422g?si=4VB53whd1Ve62WLa",
+      "name": "光芒"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii92",
-      "name": "健康問良醫"
-    },
-    {
-      "url": "https://www.youtube.com/live/wd-sSbL-cmA?si=Qr0E0MiBUjMoqlSo",
-      "name": "綜藝玩很大"
+      "url": "https://www.youtube.com/live/Wkc66qDIKSg?si=NURy9V2XMUIIJ9XF",
+      "name": "黃飛鴻"
     },
     {
       "url": "https://www.youtube.com/live/eHe-Sf016R0?si=AjqSO9-UGsl6eBF1",
@@ -130,8 +130,8 @@
       "name": "三生三世十里桃花"
     },
     {
-      "url": "https://www.youtube.com/live/Me6zMjJdzhk?si=pLIL7MW4lW3G_4-G",
-      "name": "光陰的故事"
+      "url": "https://www.youtube.com/live/6CQZxYpW9q4?si=3r4bqmVukzaOkWKF",
+      "name": "我的老師叫小賀"
     },
     {
       "url": "https://www.youtube.com/live/sS6SFAjW_mo?si=cV3F6ghOZyxJP2l-",
