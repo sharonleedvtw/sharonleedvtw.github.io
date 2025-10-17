@@ -138,6 +138,14 @@
       "name": "知否知否"
     },
     {
+      "url": "https://www.youtube.com/live/NM3HNJ_mG9g?si=71bzQAEFJ4jOhYpo",
+      "name": "阿爸的願望"
+    },
+    {
+      "url": "https://www.youtube.com/live/guNFqqcUs_A?si=gb9Qry3kuepikDLI",
+      "name": "戀愛是科學"
+    },
+    {
       "url": "https://www.youtube.com/live/jH_LeuZPoSo?si=POP6aBEsjMgpfFsM",
       "name": "下一站幸福"
     },
