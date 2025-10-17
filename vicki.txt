@@ -138,8 +138,8 @@
       "name": "知否知否"
     },
     {
-      "url": "https://www.youtube.com/live/NM3HNJ_mG9g?si=71bzQAEFJ4jOhYpo",
-      "name": "阿爸的願望"
+      "url": "https://www.youtube.com/live/95it-n2JFTo?si=ALjB8p-p9ngyEK41",
+      "name": "傾世王妃"
     },
     {
       "url": "https://www.youtube.com/live/guNFqqcUs_A?si=gb9Qry3kuepikDLI",
@@ -148,6 +148,14 @@
     {
       "url": "https://www.youtube.com/live/jH_LeuZPoSo?si=POP6aBEsjMgpfFsM",
       "name": "下一站幸福"
+    },
+    {
+      "url": "https://www.youtube.com/live/p4SszISo3ZE?si=ZUrIMQXlpbGqpWBi",
+      "name": "謝謝你醫生"
+    },
+    {
+      "url": "https://www.youtube.com/live/d7u-oPObZKE?si=3AwxmZ72aWDMcgnb",
+      "name": "海上繁花"
     },
     {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
