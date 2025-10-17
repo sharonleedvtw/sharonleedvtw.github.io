@@ -94,12 +94,20 @@
       "name": "龍華經典台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=oV_i3Hsl_zg",
-      "name": "大愛一臺"
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076",
+      "name": "食尚玩家"
     },
     {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺"
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn12",
+      "name": "龍華偶像台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn11",
+      "name": "龍華日韓台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii1048",
+      "name": "風彩戲劇台"
     },
     {
       "url": "https://www.youtube.com/live/wd-sSbL-cmA?si=Qr0E0MiBUjMoqlSo",
@@ -110,20 +118,20 @@
       "name": "去有風的地方"
     },
     {
-      "url": "https://www.youtube.com/live/fH2POwXR-xw?si=__HkMz5ol8ee2ZTG",
-      "name": "神機妙算劉伯溫"
+      "url": "https://www.youtube.com/live/yUkO-BXnUjQ?si=QG3IL7Jows0mjSUm",
+      "name": "三生三世十里桃花"
     },
     {
-      "url": "https://www.youtube.com/live/GjXBXz5dl6E?si=ZN3OjzvLZYga2z4_",
-      "name": "親戚別計較"
+      "url": "https://www.youtube.com/live/Me6zMjJdzhk?si=pLIL7MW4lW3G_4-G",
+      "name": "光陰的故事"
     },
     {
-      "url": "https://www.youtube.com/live/0wNHPFo4rCo?si=dOYqg56kTSc9D-xR",
-      "name": "那卡西老歌1"
+      "url": "https://www.youtube.com/live/sS6SFAjW_mo?si=cV3F6ghOZyxJP2l-",
+      "name": "知否知否"
     },
     {
-      "url": "https://www.youtube.com/live/VSqCi-psVtQ?si=DNITipNUgYCBtzVH",
-      "name": "那卡西老歌2"
+      "url": "hhttps://www.youtube.com/live/jH_LeuZPoSo?si=POP6aBEsjMgpfFsM",
+      "name": "下一站幸福"
     },
     {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
