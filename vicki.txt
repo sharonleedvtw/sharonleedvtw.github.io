@@ -94,7 +94,7 @@
       "name": "龍華經典台"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076",
+      "url": "https://www.ofiii.com/channel/watch/ofiii31",
       "name": "食尚玩家"
     },
     {
@@ -106,8 +106,16 @@
       "name": "龍華日韓台"
     },
     {
+      "url": "https://www.ofiii.com/channel/watch/ofiii38",
+      "name": "經典劇場"
+    },
+    {
       "url": "https://www.ofiii.com/channel/watch/ofiii1048",
-      "name": "風彩戲劇台"
+      "name": "風采劇場"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/ofiii92",
+      "name": "健康問良醫"
     },
     {
       "url": "https://www.youtube.com/live/wd-sSbL-cmA?si=Qr0E0MiBUjMoqlSo",
@@ -130,7 +138,7 @@
       "name": "知否知否"
     },
     {
-      "url": "hhttps://www.youtube.com/live/jH_LeuZPoSo?si=POP6aBEsjMgpfFsM",
+      "url": "https://www.youtube.com/live/jH_LeuZPoSo?si=POP6aBEsjMgpfFsM",
       "name": "下一站幸福"
     },
     {
