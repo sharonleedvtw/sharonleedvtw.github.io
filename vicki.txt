@@ -106,8 +106,8 @@
       "name": "敗犬女王"
     },
     {
-      "url": "https://www.ofiii.com/channel/watch/ofiii38",
-      "name": "經典劇場"
+      "url": "https://www.youtube.com/live/ESCvRS78MBk?si=k2wbdi3984IOpw14",
+      "name": "九重紫"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/ofiii1048",
