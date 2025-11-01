@@ -90,8 +90,8 @@
       "name": "亞洲旅遊台"
     },
     {
-      "url": "https://www.youtube.com/live/wd-sSbL-cmA?si=Qr0E0MiBUjMoqlSo",
-      "name": "綜藝玩很大"
+      "url": "https://www.youtube.com/live/HBMlqDSxIVI?si=zTitUz8rMsGvENAC",
+      "name": "11點熱炒店"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
@@ -174,8 +174,8 @@
       "name": "黎明之前"
     },
     {
-      "url": "https://www.youtube.com/live/Ds8iqE8jFTs?si=DN0v0E49uZoXA3XS",
-      "name": "小巷人家"
+      "url": "https://www.youtube.com/live/VhioG_x07KE?si=8VXHVKa7DJDyHlGV",
+      "name": "螺絲小姐要出嫁"
     },
     {
       "url": "https://www.youtube.com/live/btZ6rYYPjGE?si=9wX-lQHSR-qDic1W",
