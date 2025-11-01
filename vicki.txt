@@ -106,8 +106,8 @@
       "name": "龍華日韓台"
     },
     {
-      "url": "https://www.youtube.com/live/nSqd6CYF4uo?si=H3BdzBjorfQ0Ei8n",
-      "name": "敗犬女王"
+      "url": "https://www.youtube.com/live/7tEme3CUk_s?si=L2OuQnoNnDNKi8NG",
+      "name": "天之驕女"
     },
     {
       "url": "https://www.youtube.com/live/ESCvRS78MBk?si=k2wbdi3984IOpw14",
@@ -118,8 +118,8 @@
       "name": "光芒"
     },
     {
-      "url": "https://www.youtube.com/live/Wkc66qDIKSg?si=NURy9V2XMUIIJ9XF",
-      "name": "黃飛鴻"
+      "url": "https://www.youtube.com/live/9gx5EIyHmsw?si=GE-Lp1sOADp6Iu3X",
+      "name": "綜藝一級棒"
     },
     {
       "url": "https://www.youtube.com/live/eHe-Sf016R0?si=AjqSO9-UGsl6eBF1",
@@ -138,12 +138,12 @@
       "name": "知否知否"
     },
     {
-      "url": "https://www.youtube.com/live/95it-n2JFTo?si=ALjB8p-p9ngyEK41",
-      "name": "傾世王妃"
+      "url": "https://www.youtube.com/live/15lJjD832Xc?si=VhqQt3iI_yrqRaK9",
+      "name": "阿爸的願望"
     },
     {
-      "url": "https://www.youtube.com/live/guNFqqcUs_A?si=gb9Qry3kuepikDLI",
-      "name": "戀愛是科學"
+      "url": "https://www.youtube.com/live/wgvkIcDysSc?si=5uoJ3QycQ7PRuBzs",
+      "name": "嚮往的生活"
     },
     {
       "url": "https://www.youtube.com/live/jH_LeuZPoSo?si=POP6aBEsjMgpfFsM",
@@ -154,8 +154,8 @@
       "name": "謝謝你醫生"
     },
     {
-      "url": "https://www.youtube.com/live/d7u-oPObZKE?si=3AwxmZ72aWDMcgnb",
-      "name": "海上繁花"
+      "url": "https://www.youtube.com/live/6lKL5znyZkc?si=GZDcQBs2bxYwbBaX",
+      "name": "惡作劇之吻"
     },
     {
       "url": "https://www.youtube.com/live/3bAc9rGxNPg?si=PYCwZdmfo5c5gZ40",
@@ -175,7 +175,7 @@
     },
     {
       "url": "https://www.youtube.com/live/Ds8iqE8jFTs?si=DN0v0E49uZoXA3XS",
-      "name": "小巷家"
+      "name": "小巷人家"
     },
     {
       "url": "https://www.youtube.com/live/btZ6rYYPjGE?si=9wX-lQHSR-qDic1W",
