@@ -182,8 +182,8 @@
       "name": "1989一念之間"
     },
     {
-      "url": "https://www.youtube.com/live/7EjLNdM4D3c?si=vlza5mlTnCzqdIoB",
-      "name": "世界第一等"
+      "url": "https://www.youtube.com/live/WerIHpiZwSo?si=SPZnxRNujJoCtOKe",
+      "name": "華麗的挑戰"
     },
     {
       "url": "https://www.youtube.com/live/XHSY3EJ8Yfg?si=LbLPco8n3_R_qCpW",
