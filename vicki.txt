@@ -50,10 +50,6 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/live/RQnpI-GeDfE?si=OevlH85hmsT2loDC",
-      "name": "綜藝大集合"
-    },
-    {
       "url": "https://www.youtube.com/user/57ETFN/live",
       "name": "東森財經"
     },
@@ -92,6 +88,10 @@
     {
       "url": "https://www.youtube.com/live/HBMlqDSxIVI?si=zTitUz8rMsGvENAC",
       "name": "11點熱炒店"
+    },
+    {
+      "url": "https://www.youtube.com/live/RQnpI-GeDfE?si=OevlH85hmsT2loDC",
+      "name": "綜藝大集合"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
