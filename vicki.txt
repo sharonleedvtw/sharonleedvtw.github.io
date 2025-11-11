@@ -50,8 +50,8 @@
       "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
-      "url": "https://www.youtube.com/live/sEeB5deB2MQ?si=CXggzlWm-IW9ugdw",
-      "name": "香蜜沉沉燼如霜"
+      "url": "https://www.youtube.com/live/RQnpI-GeDfE?si=OevlH85hmsT2loDC",
+      "name": "綜藝大集合"
     },
     {
       "url": "https://www.youtube.com/user/57ETFN/live",
