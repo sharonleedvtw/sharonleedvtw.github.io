@@ -182,8 +182,8 @@
       "name": "1989一念之間"
     },
     {
-      "url": "https://www.youtube.com/live/WerIHpiZwSo?si=SPZnxRNujJoCtOKe",
-      "name": "華麗的挑戰"
+      "url": "https://www.youtube.com/live/_K34-9Q6a64?si=CEbGUOrbvsEZ4u0C",
+      "name": "桃花小妹"
     },
     {
       "url": "https://www.youtube.com/live/XHSY3EJ8Yfg?si=LbLPco8n3_R_qCpW",
