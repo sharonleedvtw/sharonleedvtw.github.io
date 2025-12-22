@@ -106,8 +106,8 @@
       "name": "龍華日韓台"
     },
     {
-      "url": "https://www.youtube.com/live/7tEme3CUk_s?si=L2OuQnoNnDNKi8NG",
-      "name": "天之驕女"
+      "url": "https://www.youtube.com/live/uPLdwjHlf58?si=W7D-Lf0001AEeJhv",
+      "name": "都挺好"
     },
     {
       "url": "https://www.youtube.com/live/ESCvRS78MBk?si=k2wbdi3984IOpw14",
