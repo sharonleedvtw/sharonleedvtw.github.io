@@ -186,7 +186,7 @@
       "name": "Xmas radio"
     },
     {
-      "url": "https://www.youtube.com/live/_yvfNqI4EUc?si=pevVbvXbK0jZq00W
+      "url": "https://www.youtube.com/live/_yvfNqI4EUc?si=pevVbvXbK0jZq00W",
       "name": "Cats cafe jazz"
     },
     {
