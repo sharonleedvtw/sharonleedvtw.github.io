@@ -138,8 +138,8 @@
       "name": "一家團圓"
     },
     {
-      "url": "https://www.youtube.com/live/15lJjD832Xc?si=VhqQt3iI_yrqRaK9",
-      "name": "阿爸的願望"
+      "url": "https://www.youtube.com/live/rfSblpvy_rY?si=EENq3ODNw7Wx48d9",
+      "name": "戲說台灣"
     },
     {
       "url": "https://www.youtube.com/live/E_E80UC2gek?feature=shared",
