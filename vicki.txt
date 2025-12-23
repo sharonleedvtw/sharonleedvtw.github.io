@@ -54,8 +54,8 @@
       "name": "東森財經"
     },
     {
-      "url": "https://www.youtube.com/watch?v=EnuEsX3FSh0",
-      "name": "寰宇新聞財經"
+      "url": "https://www.youtube.com/live/quwqlazU-c8?si=N88AyqTikIaAjLd8",
+      "name": "公視新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=xLqt2p6Dowo",
@@ -178,16 +178,16 @@
       "name": "美人心計"
     },
     {
-      "url": "https://www.youtube.com/live/btZ6rYYPjGE?si=9wX-lQHSR-qDic1W",
-      "name": "1989一念之間"
+      "url": "https://www.youtube.com/live/d8C0EM9IQsk?si=joLROQFlrxdV-nNQ",
+      "name": "Xmas piano"
     },
     {
-      "url": "https://www.youtube.com/live/_K34-9Q6a64?si=CEbGUOrbvsEZ4u0C",
-      "name": "桃花小妹"
+      "url": "https://www.youtube.com/live/762pk3PS7sU?si=R2kXFi6fzaP3Klya",
+      "name": "Xmas radio"
     },
     {
-      "url": "https://www.youtube.com/live/XHSY3EJ8Yfg?si=LbLPco8n3_R_qCpW",
-      "name": "浪漫輸給你"
+      "url": "https://www.youtube.com/live/_yvfNqI4EUc?si=pevVbvXbK0jZq00W
+      "name": "Cats cafe jazz"
     },
     {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
