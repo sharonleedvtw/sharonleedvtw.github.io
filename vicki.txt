@@ -182,12 +182,12 @@
       "name": "Xmas piano"
     },
     {
-      "url": "https://www.youtube.com/live/762pk3PS7sU?si=R2kXFi6fzaP3Klya",
-      "name": "Xmas radio"
+      "url": "https://youtu.be/xdJxjYMpGug?si=qNU6Y7fK-e8glu3u",
+      "name": "Xmas carol"
     },
     {
-      "url": "https://www.youtube.com/live/_yvfNqI4EUc?si=pevVbvXbK0jZq00W",
-      "name": "Cats cafe jazz"
+      "url": "https://www.youtube.com/live/Dx5qFachd3A?si=JnKeTD6fXqdRL-JZ",
+      "name": "Cafe jazz PIANO"
     },
     {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
