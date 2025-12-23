@@ -90,8 +90,8 @@
       "name": "11點熱炒店"
     },
     {
-      "url": "https://www.youtube.com/live/RQnpI-GeDfE?si=OevlH85hmsT2loDC",
-      "name": "綜藝大集合"
+      "url": "https://www.youtube.com/live/ZhpeJEioN8Q?si=15-RRtKV9RJUo0kN",
+      "name": "聽見幸福"
     },
     {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
