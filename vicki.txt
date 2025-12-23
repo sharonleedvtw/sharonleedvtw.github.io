@@ -86,7 +86,7 @@
       "name": "亞洲旅遊台"
     },
     {
-      "url": "https://www.youtube.com/live/HBMlqDSxIVI?si=zTitUz8rMsGvENAC",
+      "url": "https://www.youtube.com/live/HIE1r3ELkbo?si=aopRdWyWR7mUjhXA",
       "name": "11點熱炒店"
     },
     {
