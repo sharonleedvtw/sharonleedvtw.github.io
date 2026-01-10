@@ -37,7 +37,7 @@
       "name": "寰宇新聞台灣台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=pF507BLtbqU",
+      "url": "https://www.youtube.com/live/vVxv2ktySgc?si=_xt-RcsYkaDGVJ6M",
       "name": "三立 iNEWS 新聞"
     },
     {
@@ -90,10 +90,6 @@
       "name": "11點熱炒店"
     },
     {
-      "url": "https://www.youtube.com/live/ZhpeJEioN8Q?si=15-RRtKV9RJUo0kN",
-      "name": "聽見幸福"
-    },
-    {
       "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
       "name": "龍華經典台"
     },
@@ -114,10 +110,6 @@
       "name": "九重紫"
     },
     {
-      "url": "https://www.youtube.com/live/Wsz2YuQ422g?si=4VB53whd1Ve62WLa",
-      "name": "光芒"
-    },
-    {
       "url": "https://www.youtube.com/live/9gx5EIyHmsw?si=GE-Lp1sOADp6Iu3X",
       "name": "綜藝一級棒"
     },
@@ -134,20 +126,12 @@
       "name": "我的老師叫小賀"
     },
     {
-      "url": "https://www.youtube.com/live/Af5hJQIU5mo?si=_xDTebfrJXIcLmtB",
-      "name": "一家團圓"
-    },
-    {
       "url": "https://www.youtube.com/live/rfSblpvy_rY?si=EENq3ODNw7Wx48d9",
       "name": "戲說台灣"
     },
     {
       "url": "https://www.youtube.com/live/E_E80UC2gek?feature=shared",
       "name": "瑪莎與熊"
-    },
-    {
-      "url": "https://www.youtube.com/live/L3vTqgsM7rA?si=hzKhSR0-tuMn6H6v",
-      "name": "甄嬛傳"
     },
     {
       "url": "https://www.youtube.com/live/p4SszISo3ZE?si=ZUrIMQXlpbGqpWBi",
@@ -172,10 +156,6 @@
     {
       "url": "https://www.youtube.com/live/sEeB5deB2MQ?si=CXggzlWm-IW9ugdw",
       "name": "香蜜沉沉燼如霜"
-    },
-    {
-      "url": "https://www.youtube.com/live/-2_N8JrHNdM?si=jg7jZSFk3ksvk_gY",
-      "name": "美人心計"
     },
     {
       "url": "https://www.youtube.com/live/d8C0EM9IQsk?si=joLROQFlrxdV-nNQ",
