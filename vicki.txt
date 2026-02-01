@@ -38,7 +38,7 @@
     },
     {
       "url": "https://www.youtube.com/live/QsGswQvRmtU?si=kzTxYJ1JE0dquA-R",
-      "name": "三立 iNEWS 新聞"
+      "name": "三立新聞"
     },
     {
       "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
