@@ -37,7 +37,7 @@
       "name": "寰宇新聞台灣台"
     },
     {
-      "url": "https://www.youtube.com/live/vVxv2ktySgc?si=_xt-RcsYkaDGVJ6M",
+      "url": "https://www.youtube.com/live/QsGswQvRmtU?si=kzTxYJ1JE0dquA-R",
       "name": "三立 iNEWS 新聞"
     },
     {
