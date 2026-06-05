@@ -5,7 +5,7 @@
       "name": "TVBS新聞"
     },
     {
-      "url": "https://www.youtubej.com/live/sNtCBxP-8LY?si=9sQOAyAyNsP_ohJM",
+      "url": "https://www.youtube.com/live/sNtCBxP-8LY?si=VKSbR_cDTMYN3x4M",
       "name": "台視新聞"
     },
     {
