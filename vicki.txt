@@ -78,20 +78,15 @@
       "name": "公視台語台"
     },
     {
-      "url": "https://www.youtube.com/watch?v=hR8_rrE0VyY",
+      "url": "https://www.youtube.com/live/Bhp_V7H5QoY?si=Xzsra08_Po25UGN-",
       "name": "新唐人"
-    },
-    {
-      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
-      "name": "非凡新聞",
-      "header": "Referer: https://fetfriday.svc.litv.tv/"
     },
     {
       "url": "https://www.youtube.com/watch?v=vOTiJkg1voo",
       "name": "ABC"
     },
     {
-      "url": "https://www.youtube.com/live/YDfiTGGPYCk?si=uWXKaV7oHhgfv91F",
+      "url": "https://www.youtube.com/live/C96oohpWBGw?si=XqhSGjLwN8v5Kojt",
       "name": "Fox"
     },
     {
@@ -111,32 +106,8 @@
       "name": "大愛一臺"
     },
     {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=ADDSmXoPDY8",
-      "name": "萬秀豬王"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=z7SiAaN4ogw",
+      "url": "https://www.youtube.com/live/i10aOLMK76k?si=oRoyejaA7w_2Pe0v",
       "name": "Rolling Cam around the World"
-    },
-    {
-      "url": "https://www.youtube.com/live/cH7VBI4QQzA?si=qWY6V2FXUYEgY1Ua",
-      "name": "Toykio Walk"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=Xpp_yGK0QL8",
-      "name": "Madrid Walk"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=WKGK_hYnlGE",
-      "name": "Lodon Walk"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=VC4m-5a7Kzk",
-      "name": "Paris Walk"
     },
     {
       "url": "https://www.youtube.com/live/_BMi3usEwi8?si=-EpbJQYw-ySS4wki",
@@ -147,11 +118,11 @@
       "name": "Forest Corner"
     },
     {
-      "url": "https://www.youtube.com/live/tNkZsRW7h2c?si=eUE2cJNbISgn1Uvo",
-      "name": "Space Ambient Music"
+      "url": "https://www.youtube.com/live/0FBiyFpV__g?si=KUFFSCnJrT7PC-jl",
+      "name": "國際太空站"
     },
     {
-      "url": "https://www.youtube.com/live/xRPjKQtRXR8?si=JMKq92NTk1PDeexU",
+      "url": "https://www.youtube.com/live/vytmBNhc9ig?si=idoDL-brW5qJIx6t",
       "name": "NASA Live"
     }
   ]
