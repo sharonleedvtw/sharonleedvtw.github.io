@@ -90,8 +90,8 @@
       "name": "Fox"
     },
     {
-      "url": "https://www.youtube.com/live/Ap-UM1O9RBU?si=POgDxigMdgtPPwSs",
-      "name": "France 24"
+      "url": "https://www.youtube.com/live/gCNeDWCI0vo?si=pgdWjpgKs0rO3jaX",
+      "name": "半島電視新聞"
     },
     {
       "url": "https://www.youtube.com/live/1_Ih0JYmkjI?si=Nvq8hOhhvOrpOweF",
