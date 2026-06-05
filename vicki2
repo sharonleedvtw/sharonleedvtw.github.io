@@ -1,0 +1,161 @@
+{
+  "channelList": [
+    {
+      "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc",
+      "name": "TVBS新聞"
+    },
+    {
+      "url": "https://www.youtube.com/live/sNtCBxP-8LY?si=9sQOAyAyNsP_ohJM",
+      "name": "台視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ylYJSBUgaMA",
+      "name": "民視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/c/twctvnews/live",
+      "name": "中視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/live/vr3XyVCR4T0",
+      "name": "中天新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=V1p33hqPrUk",
+      "name": "東森新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E",
+      "name": "華視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6IquAgfvYmc",
+      "name": "寰宇新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w87VGpgd90U",
+      "name": "寰宇新聞台灣台"
+    },
+    {
+      "url": "https://www.youtube.com/live/QsGswQvRmtU?si=kzTxYJ1JE0dquA-R",
+      "name": "三立新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5n0y6b0Q25o",
+      "name": "鏡新聞"
+    },
+    {
+      "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8",
+      "name": "非凡新聞",
+      "header": "Referer: https://fetfriday.svc.litv.tv/"
+    },
+    {
+      "url": "https://www.youtube.com/user/57ETFN/live",
+      "name": "東森財經"
+    },
+    {
+      "url": "https://www.youtube.com/live/quwqlazU-c8?si=N88AyqTikIaAjLd8",
+      "name": "公視新聞"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xLqt2p6Dowo",
+      "name": "非凡商業"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDqQo8a7Xmk",
+      "name": "台視"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv040",
+      "name": "中視"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C6gYqSHLRw4",
+      "name": "公視"
+    },
+    {
+      "url": "https://www.youtube.com/live/6KlRR_DGhmI?si=NaY-LDVjW3pQlsuK",
+      "name": "公視台語台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv041",
+      "name": "華視"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076",
+      "name": "亞洲旅遊台"
+    },
+    {
+      "url": "https://www.youtube.com/live/HIE1r3ELkbo?si=aopRdWyWR7mUjhXA",
+      "name": "11點熱炒店"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn21",
+      "name": "龍華經典台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn12",
+      "name": "龍華偶像台"
+    },
+    {
+      "url": "https://www.ofiii.com/channel/watch/litv-longturn11",
+      "name": "龍華日韓台"
+    },
+    {
+      "url": "https://www.youtube.com/live/uPLdwjHlf58?si=W7D-Lf0001AEeJhv",
+      "name": "都挺好"
+    },
+    {
+      "url": "https://www.youtube.com/live/ESCvRS78MBk?si=k2wbdi3984IOpw14",
+      "name": "九重紫"
+    },
+    {
+      "url": "https://www.youtube.com/live/9gx5EIyHmsw?si=GE-Lp1sOADp6Iu3X",
+      "name": "綜藝一級棒"
+    },
+    {
+      "url": "https://www.youtube.com/live/eHe-Sf016R0?si=AjqSO9-UGsl6eBF1",
+      "name": "去有風的地方"
+    },
+    {
+      "url": "https://www.youtube.com/live/yUkO-BXnUjQ?si=QG3IL7Jows0mjSUm",
+      "name": "三生三世十里桃花"
+    },
+    {
+      "url": "https://www.youtube.com/live/6CQZxYpW9q4?si=3r4bqmVukzaOkWKF",
+      "name": "我的老師叫小賀"
+    },
+    {
+      "url": "https://www.youtube.com/live/rfSblpvy_rY?si=EENq3ODNw7Wx48d9",
+      "name": "戲說台灣"
+    },
+    {
+      "url": "https://www.youtube.com/live/E_E80UC2gek?feature=shared",
+      "name": "瑪莎與熊"
+    },
+    {
+      "url": "https://www.youtube.com/live/p4SszISo3ZE?si=ZUrIMQXlpbGqpWBi",
+      "name": "謝謝你醫生"
+    },
+    {
+      "url": "https://www.youtube.com/live/6lKL5znyZkc?si=GZDcQBs2bxYwbBaX",
+      "name": "惡作劇之吻"
+    },
+    {
+      "url": "https://www.youtube.com/live/3bAc9rGxNPg?si=PYCwZdmfo5c5gZ40",
+      "name": "超級冰冰秀"
+    },
+    {
+      "url": "https://www.youtube.com/live/TXKWbIPgD_8?si=Kz2nE49J7VrSgzGq",
+      "name": "廉政英雄"
+    },
+    {
+      "url": "https://www.youtube.com/live/032kEdR9Lic?si=NObPk4SHk2mRTNbB",
+      "name": "新兵日記"
+    },
+    {
+      "url": "https://www.youtube.com/live/sEeB5deB2MQ?si=CXggzlWm-IW9ugdw",
+      "name": "香蜜沉沉燼如霜"
+    }
+  ]
+}
