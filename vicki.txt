@@ -122,10 +122,6 @@
       "name": "國際太空站"
     },
     {
-      "url": "http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226991/1.m3u8",
-      "name": "咪咕"
-    },
-    {
       "url": "https://www.youtube.com/live/vytmBNhc9ig?si=idoDL-brW5qJIx6t",
       "name": "NASA Live"
     }
